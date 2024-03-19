@@ -1,6 +1,4 @@
 import fs from 'node:fs';
-import path from 'node:path';
-
 import xlsx from 'node-xlsx';
 import * as csv from 'csv';
 
